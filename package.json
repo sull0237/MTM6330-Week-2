@@ -1,0 +1,23 @@
+{
+  "name": "mtm6330-week-2",
+  "version": "1.0.0",
+  "description": "First github repository for MTM6330_020_W19 Carla Sullivan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sull0237/MTM6330-Week-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sull0237/MTM6330-Week-2/issues"
+  },
+  "homepage": "https://github.com/sull0237/MTM6330-Week-2#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
